@@ -1,0 +1,1 @@
+**Linear Searching**- It is one of the ways to search for a particular thing, say an integer, in a collection, say an array. This method can be applied on unsorted collection. In this method, we check each and every element of the unsorted collection, individually, for the required item and then return the location. Its time complexity is O(n).
